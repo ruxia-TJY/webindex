@@ -298,18 +298,25 @@
         "l": "https://msdn.itellyou.cn/",
         "t": "免费微软原版官方镜像",
         "y": 1
+      },
+      {
+        "n": "游戏",
+        "l": "",
+        "t": "",
+        "y": 0
+      },
+      {
+        "n": "Steam",
+        "l": "https://store.steampowered.com/",
+        "t": "国内原因，间歇抽风",
+        "y": 1
+      },
+      {
+        "n": "Epic",
+        "l": "https://store.epicgames.com/zh-CN/",
+        "t": "",
+        "y": 1
       }
-
-
-
-
-
-
-
-
-
-
-
     ]
   },
   "编程": {
@@ -444,6 +451,18 @@
       {
         "n": "Face++人脸识别",
         "l": "https://www.faceplusplus.com.cn/",
+        "t": "",
+        "y": 1
+      },
+      {
+        "n": "百度智能云API市场",
+        "l": "https://apis.baidu.com/",
+        "t": "",
+        "y": 1
+      },
+      {
+        "n": "心知天气API",
+        "l": "https://www.seniverse.com/",
         "t": "",
         "y": 1
       },
