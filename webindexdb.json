@@ -401,6 +401,12 @@
         "y": 1
       },
       {
+        "n": "DoGet",
+        "l": "https://doget.nocsdn.com/#/",
+        "t": "Github release 文件下载加速",
+        "y": 1
+      },
+      {
         "n": "论坛&amp;博客",
         "l": "",
         "t": "",
