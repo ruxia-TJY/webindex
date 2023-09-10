@@ -3,24 +3,11 @@
     padding: 0;
 }
 
+a,abbr{
+    text-decoration: none;
+}
 
-#nav{
-    position: fixed;
-    width: 20%;
-    height:100%;
-    overflow: auto;
-    background-color: rgb(94,97,109);
-    color: white;
-    text-align: center;    
-    font-size: 20px;
-}
-@keyframes frameNavList {
-    from{
-    }
-    to{
-        font-size: 30px;
-    }
-}
+
 @keyframes frameUrl {
     from{
         transform: scale(1.0,1.0);
@@ -30,35 +17,47 @@
         transform: scale(1.3,1.3);
     }
 }
-.nav-list{
-    text-align: left;
+
+#nav{
+    position: fixed;
+    width: 20%;
+    height:100%;
+    overflow: auto;
+    background-color: rgba(20,30,27,100);
+    text-align: center;
+    color: #d1d9e0;
+    font-size: 20px;
 }
 
-#nav li{
-    cursor:pointer;
-    margin-top: 10px;
-    padding-left: 10px;
-
-}
-
-#nav li:hover{
-    background-color: white;
-    animation:frameNavList 0.5s forwards;
+h1{
+    margin: 10px;
+    font-family: 'Pushster', cursive;
 }
 
 #nav a{
-    text-decoration: none;
-    font-weight: bolder;
-}
-
-#nav a:link,#nav a:visited,#nav a:active,#nav a:hover{
-    color: black;
-}
-
-
-h1{
     color: #d1d9e0;
-    font-family: 'Pushster', cursive;
+    width: 100%;
+    display: block;
+}
+
+#nav li{
+    cursor: pointer;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+#nav li:hover{
+    background-color:  #d1d9e0;;
+
+}
+
+#nav li:hover a{
+    color: rgba(20,30,27,100);
+}
+
+.nav-list-div{
+    width: 100%;
+    margin-top: 50%;
 }
 
 
@@ -66,23 +65,26 @@ h1{
     width: 80%;
     height: auto;
     float: right;
+    background-color: #748f87;
 }
 
-#link-div h2{
+#list h2{
     padding: 10px;
-    background-color:#75878a;
+    color: #d1d9e0;
+    background-color: rgba(20,30,27,100);
 }
 
-#link-div ul{
+
+#list ul{
     font-weight: bolder;
     font-size: 20px;
     padding-left: 5px;
 }
 
-#link-div li{
+#list li{
     font-weight: normal;
     display: inline-block;
-    padding: 5px;
+    padding:5px;
     margin-top: 5px;
     margin-bottom: 5px;
     padding-left: 20px;
@@ -90,34 +92,34 @@ h1{
     text-align: center;
     cursor: pointer;
 }
-#link-div li:hover{
-    animation:frameUrl 0.5s forwards;
+
+#list li:hover{
+    animation: frameUrl 0.5s forwards;
 }
 
-#link-div a{
+#list a{
     font-size: 18px;
-    text-decoration: none;
 }
-#link-div a:link{
-    color: black;
-}
-#link-div a:visited{
-    color: black;
-}
-#link-div a:hover{
-    color: black;    
-}
-#link-div a:active{
+
+#list a:link,#list a:visited,#list a:hover,#list a:active{
     color: black;
 }
 
 #footer{
-    background: url("https://cdn.jsdelivr.net/gh/ruxia-TJY/BlogUse@latest/cover/cover.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-    height:auto;
+    width: 100%;
     text-align: center;
-    color: white;
+    vertical-align: center;
+    position: relative;
+
+}
+
+#footer-div{
+    position: absolute;
+    top: 20%;
+    right: 0;
+    bottom: 50%;
+    left: 0;
+    margin: auto;
 }
 
 .info{
@@ -127,26 +129,26 @@ h1{
 
 .info:hover{
     font-size: 17px;
-    /*color: royalblue;*/
 }
 
+#footer-div a{
+    color: black;
+}
+#footer-div a:link,#footer-div a:visited,#footer-div a:active{
+    color: black;
+}
 #footer-link a{
-    color: white;
     font-size: 14px;
     text-decoration: none;
     padding-left: 1em;
     padding-right: 1em;
-
 }
+
 #footer-link a:link,#footer-link a:visited,#footer-link a:active{
-    color:white;
+    color:black;
 }
+
 #footer-link a:hover{
-    color: royalblue;
+    color: #d1d9e0;
     font-size: 17px;
-
-}
-
-abbr{
-    text-decoration: none;
 }
