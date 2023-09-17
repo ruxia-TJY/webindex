@@ -13,19 +13,19 @@
       {
         "n": "百度",
         "l": "https://www.baidu.com",
-        "t": "",
+        "t": "最佳的中文搜索引擎,但因垃圾的运营产生的广告和各种问题而臭名昭著",
         "y": 1
       },
       {
         "n": "必应",
         "l": "https://cn.bing.com",
-        "t": "",
+        "t": "墙内推荐使用",
         "y": 1
       },
       {
         "n": "Google",
         "l": "https://google.com",
-        "t": "需翻墙",
+        "t": "需翻墙，但这个引擎还需要解释吗？",
         "y": 1
       },
       {
@@ -91,13 +91,13 @@
       {
         "n": "四六级",
         "l": "http://cet.neea.edu.cn/",
-        "t": "",
+        "t": "英语四六级考试官网",
         "y": 1
       },
       {
         "n": "计算机二级",
         "l": "http://ncre.neea.edu.cn/",
-        "t": "",
+        "t": "计算机等级考试官网",
         "y": 1
       },
       {
@@ -338,6 +338,18 @@
         "n": "3DM",
         "l": "https://www.3dmgame.com/",
         "t": "",
+        "y": 1
+      },
+      {
+        "n": "音乐",
+        "l": "",
+        "t": "",
+        "y": 0
+      },
+      {
+        "n": "My Free MP3",
+        "l": "https://tool.liumingye.cn/music/?page=searchPage#/",
+        "t": "免费下载音乐",
         "y": 1
       }
     ]
@@ -1143,7 +1155,14 @@
         "l": "https://lab.magiconch.com/v/epub-transform",
         "t": "",
         "y": 1
+      },
+      {
+        "n": "刘明野工具箱",
+        "l": "https://tool.liumingye.cn/",
+        "t": "",
+        "y": 1
       }
+
     ]
   },
   "有趣的网址": {
