@@ -1,5 +1,5 @@
 {
-  "lastChangedTime": "2023-09-10 16:32",
+  "lastChangedTime": "2023-09-22 19:57",
 
   "TitleList": ["常用","编程","硬件","设计","API&amp;Doc","资源&amp;分享","实用工具","有趣的网址"],
   "常用": {
@@ -906,6 +906,12 @@
         "n": "404模板网",
         "l": "https://404.life/",
         "t": "",
+        "y": 1
+      },
+      {
+        "n": "Color Scheme Designer",
+        "l": "https://www.chinavid.com/color.html",
+        "t": "在线配色器",
         "y": 1
       }
 
