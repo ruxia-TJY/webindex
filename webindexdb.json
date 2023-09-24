@@ -472,30 +472,6 @@
         "y": 1
       },
       {
-        "n":"下载",
-        "l": "",
-        "t": "",
-        "y": 0
-      },
-      {
-        "n": "Python",
-        "l": "https://www.python.org/",
-        "t": "",
-        "y": 1
-      },
-      {
-        "n": "Anaconda",
-        "l": "https://www.anaconda.com/",
-        "t": "",
-        "y": 1
-      },
-      {
-        "n": "PyCharm",
-        "l": "https://www.jetbrains.com/pycharm/download/",
-        "t": "",
-        "y": 1
-      },
-      {
         "n": "接口",
         "l": "",
         "t": "",
