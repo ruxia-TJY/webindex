@@ -1,5 +1,5 @@
 {
-  "lastChangedTime": "2023-09-22 19:57",
+  "lastChangedTime": "2024-09-13 06:18",
 
   "TitleList": ["常用","编程","硬件","设计","API&amp;Doc","资源&amp;分享","实用工具","有趣的网址"],
   "常用": {
@@ -53,6 +53,12 @@
         "y": 1
       },
       {
+        "n": "谷歌翻译",
+        "l": "https://translate.google.com/",
+        "t": "需翻墙",
+        "y": 1
+      },
+      {
         "n": "AI",
         "y": 0
       },
@@ -81,7 +87,7 @@
         "y": 1
       },
       {
-        "n": "",
+        "n": "国家",
         "l": "",
         "t": "",
         "y": 0
@@ -119,6 +125,24 @@
       {
         "n": "安徽农金助学贷款",
         "l": "https://eloans.ahrcu.com/stu/login_openStuIndexPage.action",
+        "t": "",
+        "y": 1
+      },
+      {
+        "n": "",
+        "l": "",
+        "t": "",
+        "y": 0
+      },
+      {
+        "n": "中国法律服务网",
+        "l": "https://ai.12348.gov.cn/pc/",
+        "t": "智能的法律咨询服务",
+        "y": 1
+      },
+      {
+        "n": "中国裁判文书网",
+        "l": "https://wenshu.court.gov.cn/",
         "t": "",
         "y": 1
       },
@@ -195,7 +219,7 @@
         "y": 1
       },
       {
-        "n": "",
+        "n": "社交",
         "l": "",
         "t": "",
         "y": 0
@@ -209,18 +233,6 @@
       {
         "n": "豆瓣",
         "l": "https://www.douban.com/",
-        "t": "",
-        "y": 1
-      },
-      {
-        "n": "中国法律服务网",
-        "l": "https://ai.12348.gov.cn/pc/",
-        "t": "智能的法律咨询服务",
-        "y": 1
-      },
-      {
-        "n": "中国裁判文书网",
-        "l": "https://wenshu.court.gov.cn/",
         "t": "",
         "y": 1
       },
@@ -330,6 +342,12 @@
         "n": "Switch520",
         "l": "https://sway.office.com/ZyHdQKVF0lCLyEuA",
         "t": "",
+        "y": 1
+      },
+      {
+        "n": "Switch ProdKeys",
+        "l": "https://prodkeys.net/ko/",
+        "t": "Switch固件和密钥",
         "y": 1
       },
       {
