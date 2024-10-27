@@ -1,5 +1,5 @@
 {
-  "lastChangedTime": "2024-09-13 06:18",
+  "lastChangedTime": "2024-10-27 21:32",
 
   "TitleList": ["常用","编程","硬件","设计","API&amp;Doc","资源&amp;分享","实用工具","有趣的网址"],
   "常用": {
@@ -29,9 +29,9 @@
         "y": 1
       },
       {
-        "n": "无追搜索",
-        "l": "https://www.wuzhuiso.com/",
-        "t": "360出品",
+        "n": "360AI搜索",
+        "l": "https://www.sou.com/",
+        "t": "原无追搜索",
         "y": 1
       },
       {
@@ -66,6 +66,12 @@
         "n": "文心一言",
         "l": "https://yiyan.baidu.com/",
         "t": "",
+        "y": 1
+      },
+      {
+        "n": "ChatGPT",
+        "l": "https://openai.com/chatgpt/overview/",
+        "t": "需翻墙",
         "y": 1
       },
       {
@@ -202,7 +208,7 @@
       },
       {
         "n": "ProtonMail",
-        "l": "https://protonmail.com/",
+        "l": "https://proton.me/mail",
         "t": "安全匿名",
         "y": 1
       },
@@ -227,6 +233,12 @@
       {
         "n": "知乎",
         "l": "https://www.zhihu.com/",
+        "t": "",
+        "y": 1
+      },
+      {
+        "n": "贴吧",
+        "l": "https://tieba.baidu.com/",
         "t": "",
         "y": 1
       },
@@ -351,6 +363,12 @@
         "y": 1
       },
       {
+        "n": "风灵月影",
+        "l": "https://flingtrainer.com/",
+        "t": "",
+        "y": 1
+      },
+      {
         "n": "傻狗本狗の小破站",
         "l": "https://www.sharelikes.com.cn/",
         "t": "P社游戏大全",
@@ -388,7 +406,7 @@
       },
       {
         "n": "Download Where",
-        "l": "https://downloadwhere.jiayublog.cn/",
+        "l": "https://dw.jiayublog.cn/",
         "t": "在哪下",
         "y": 1
       }
@@ -512,8 +530,14 @@
         "y": 1
       },
       {
-        "n": "百度智能云API市场",
+        "n": "百度API市场",
         "l": "https://apis.baidu.com/",
+        "t": "",
+        "y": 1
+      },
+      {
+        "n": "阿里API市场",
+        "l": "https://market.aliyun.com/apimarket/",
         "t": "",
         "y": 1
       },
@@ -571,19 +595,6 @@
         "t": "",
         "y": 1
       }
-
-
-
-
-
-
-
-
-
-
-
-
-
     ]
   },
   "硬件": {
@@ -594,12 +605,6 @@
         "l": "",
         "t": "",
         "y": 0
-      },
-      {
-        "n": "STC宏晶",
-        "l": "https://www.stcmcudata.com/",
-        "t": "虽然像是三流广告网站，但没错，这是官网",
-        "y": 1
       },
       {
         "n": "Arduino",
@@ -634,6 +639,18 @@
       {
         "n": "51黑电子",
         "l": "http://www.51hei.com/bbs/",
+        "t": "",
+        "y": 1
+      },
+      {
+        "n": "STC国芯论坛",
+        "l": "https://www.stcaimcu.com/",
+        "t": "STC宏晶，还是怀念以前官网，Ctrl+F多方便",
+        "y": 1
+      },
+      {
+        "n": "安富莱-硬汉嵌入式论坛",
+        "l": "https://www.armbbs.cn/forum.php",
         "t": "",
         "y": 1
       },
@@ -930,10 +947,6 @@
         "t": "在线配色器",
         "y": 1
       }
-
-
-
-
     ]
   },
   "API&amp;Doc": {
@@ -1117,24 +1130,6 @@
         "n": "mindows",
         "l": "https://mindows.cn/",
         "t": "Mindows工具箱，Android手机刷Windows",
-        "y": 1
-      },
-      {
-        "n": "翻墙",
-        "l": "",
-        "t": "翻墙有风险，谨慎！",
-        "y": 0
-      },
-      {
-        "n": "GHelper",
-        "l": "",
-        "t": "谷歌上网助手，插件，在Chrome/Edge商店下载",
-        "y": 1
-      },
-      {
-        "n": "ProtonVPN",
-        "l": "https://account.protonmail.com/login",
-        "t": "有免费额度，充钱可以启用匿名，保护你的隐私",
         "y": 1
       }
     ]
