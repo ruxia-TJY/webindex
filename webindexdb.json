@@ -1,5 +1,5 @@
 {
-  "lastChangedTime": "2024-10-27 21:32",
+  "lastChangedTime": "2025-03-11 21:32",
 
   "TitleList": ["常用","编程","硬件","设计","API&amp;Doc","资源&amp;分享","实用工具","有趣的网址"],
   "常用": {
@@ -29,7 +29,7 @@
         "y": 1
       },
       {
-        "n": "360AI搜索",
+        "n": "纳米AI搜索",
         "l": "https://www.sou.com/",
         "t": "原无追搜索",
         "y": 1
@@ -60,7 +60,21 @@
       },
       {
         "n": "AI",
+        "l": "",
+        "t": "现在还用啥搜索引擎(Google除外)？",
         "y": 0
+      },
+      {
+        "n": "DeepSeek",
+        "l": "https://chat.deepseek.com/",
+        "t": "",
+        "y": 1
+      },
+      {
+        "n": "腾讯元宝",
+        "l": "https://yuanbao.tencent.com/",
+        "t": "",
+        "y": 1
       },
       {
         "n": "文心一言",
@@ -72,6 +86,24 @@
         "n": "ChatGPT",
         "l": "https://openai.com/chatgpt/overview/",
         "t": "需翻墙",
+        "y": 1
+      },
+      {
+        "n": "大数据模型",
+        "l": "",
+        "t": "",
+        "y": 0
+      },
+      {
+        "n": "魔搭社区",
+        "l": "https://www.modelscope.cn/",
+        "t": "",
+        "y": 1
+      },
+      {
+        "n": "和鲸社区",
+        "l": "https://www.heywhale.com",
+        "t": "",
         "y": 1
       },
       {
@@ -365,6 +397,12 @@
       {
         "n": "风灵月影",
         "l": "https://flingtrainer.com/",
+        "t": "",
+        "y": 1
+      },
+      {
+        "n": "WeMod",
+        "l": "https://www.wemod.com/",
         "t": "",
         "y": 1
       },
