@@ -3,7 +3,7 @@ function getNavTitleLise(title,id) {
     return text;
 }
 function loadJson(){
-    var jsonUrl = 'https://raw.githubusercontent.com/ruxia-TJY/webindex/refs/heads/main/webindexdb.json?timestamp' + new Date().getTime();
+    var jsonUrl = 'webindexdb.json?timestamp' + new Date().getTime();
     var request = new XMLHttpRequest();
     request.open("get",jsonUrl);
     request.send(null);
