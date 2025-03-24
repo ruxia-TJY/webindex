@@ -974,12 +974,6 @@
         "y": 0
       },
       {
-        "n": "404模板网",
-        "l": "https://404.life/",
-        "t": "",
-        "y": 1
-      },
-      {
         "n": "Color Scheme Designer",
         "l": "https://www.chinavid.com/color.html",
         "t": "在线配色器",
@@ -1058,7 +1052,7 @@
       },
       {
         "n": "Win优质软件列表",
-        "l": "https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md",
+        "l": "https://github.com/0PandaDEV/awesome-windows",
         "t": "",
         "y": 1
       },
@@ -1066,12 +1060,6 @@
         "n": "小众软件",
         "l": "https://www.appinn.com",
         "t": "",
-        "y": 1
-      },
-      {
-        "n": "Downloadly",
-        "l": "https://downloadly.net/",
-        "t": "外国的破解软件分享",
         "y": 1
       },
       {
@@ -1084,12 +1072,6 @@
         "n": "appstorrent",
         "l": "http://appstorrent.ru/",
         "t": "毛子破解软件网址",
-        "y": 1
-      },
-      {
-        "n": "Gradient Folders",
-        "l": "https://una.im/gradient-folders/",
-        "t": "",
         "y": 1
       },
       {
@@ -1182,12 +1164,6 @@
         "y": 0
       },
       {
-        "n": "APK Downloader",
-        "l": "https://apps.evozi.com/apk-downloader",
-        "t": "下载谷歌商店Apk",
-        "y": 1
-      },
-      {
         "n": "拾取坐标系统",
         "l": "http://api.map.baidu.com/lbsapi/getpoint/index.html",
         "t": "",
@@ -1255,7 +1231,7 @@
       },
       {
         "n": "不会百度吗？",
-        "l": "https://buhuibaidu.me",
+        "l": "https://yangh9.github.io/baidu/",
         "t": "",
         "y": 1
       },
