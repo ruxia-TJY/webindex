@@ -30,4 +30,4 @@ jobs:
 
       - name: Upload to COS
         run: |
-          coscmd upload -r -s dist/ /
+          coscmd upload -r -s src/ /
