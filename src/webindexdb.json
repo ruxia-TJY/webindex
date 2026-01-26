@@ -1,5 +1,5 @@
 {
-  "lastChangedTime": "2025-03-24 11:58",
+  "lastChangedTime": "2026-01-26 16:05",
 
   "TitleList": ["常用","编程","硬件","设计","API&amp;Doc","资源&amp;分享","实用工具","有趣的网址"],
   "常用": {
@@ -111,12 +111,6 @@
         "l": "",
         "t": "联系我添加你学校的网址",
         "y": 0
-      },
-      {
-        "n": "安医大临床医学院",
-        "l": "http://10.64.2.130",
-        "t": "",
-        "y": 1
       },
       {
         "n": "东北大学",
@@ -435,18 +429,6 @@
         "l": "https://tool.liumingye.cn/music/?page=searchPage#/",
         "t": "免费下载音乐",
         "y": 1
-      },
-      {
-        "n": "",
-        "l": "",
-        "t": "",
-        "y": 0
-      },
-      {
-        "n": "Download Where",
-        "l": "https://dw.jiayublog.cn/",
-        "t": "在哪下",
-        "y": 1
       }
     ]
   },
@@ -540,12 +522,6 @@
       {
         "n": "吾爱破解",
         "l": "https://www.52pojie.cn/",
-        "t": "",
-        "y": 1
-      },
-      {
-        "n": "Matlab中文论坛",
-        "l": "https://www.ilovematlab.cn/",
         "t": "",
         "y": 1
       },
@@ -675,12 +651,6 @@
         "y": 0
       },
       {
-        "n": "Arduino中文社区",
-        "l": "https://www.arduino.cn/",
-        "t": "",
-        "y": 1
-      },
-      {
         "n": "51黑电子",
         "l": "http://www.51hei.com/bbs/",
         "t": "",
@@ -720,12 +690,6 @@
         "n": "立创EDA专业版",
         "l": "https://pro.lceda.cn/editor",
         "t": "",
-        "y": 1
-      },
-      {
-        "n": "DigiPCBA云EDA",
-        "l": "https://digipcba.com/",
-        "t": "配合AD使用，大量可直接使用的元件封装",
         "y": 1
       },
       {
@@ -1111,8 +1075,14 @@
         "y": 1
       },
       {
+        "n": "金屋电子书",
+        "l": "https://pdfs.top/",
+        "t": "",
+        "y": 1
+      },
+      {
         "n": "安娜的档案",
-        "l": "http://annas-archive.org/",
+        "l": "https://annas-archive.pm/",
         "t": "",
         "y": 1
       },
@@ -1120,12 +1090,6 @@
         "n": "古诗文网",
         "l": "https://www.gushiwen.cn",
         "t": "在线阅读古籍",
-        "y": 1
-      },
-      {
-        "n": "联图云光盘",
-        "l": "http://discx.yuntu.io",
-        "t": "",
         "y": 1
       },
       {
