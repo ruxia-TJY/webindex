@@ -89,6 +89,24 @@
         "y": 1
       },
       {
+        "n": "豆包",
+        "l": "https://www.doubao.com/chat/",
+        "t": "",
+        "y": 1
+      },
+      {
+        "n": "Gemini",
+        "l": "https://gemini.google.com/app",
+        "t": "谷歌出品，需翻墙",
+        "y": 1
+      },
+      {
+        "n": "智谱清言",
+        "l": "https://chatglm.cn/",
+        "t": "",
+        "y": 1
+      },
+      {
         "n": "大数据模型",
         "l": "",
         "t": "",
@@ -1114,6 +1132,30 @@
         "n": "mindows",
         "l": "https://mindows.cn/",
         "t": "Mindows工具箱，Android手机刷Windows",
+        "y": 1
+      },
+      {
+        "n": "视频",
+        "l": "",
+        "t": "",
+        "y": 0
+      },
+      {
+        "n": "搜片网",
+        "l": "https://zuixindizhi007.github.io/soupian/",
+        "t": "",
+        "y": 1
+      },
+      {
+        "n": "",
+        "l": "",
+        "t": "",
+        "y": 0
+      },
+      {
+        "n": "互联网档案馆",
+        "l": "https://archive.org/",
+        "t": "",
         "y": 1
       }
     ]
