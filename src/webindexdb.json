@@ -1,5 +1,5 @@
 {
-  "lastChangedTime": "2026-01-27 11:48",
+  "lastChangedTime": "2026-02-5 09:45",
 
   "TitleList": ["常用","编程","硬件","设计","API&amp;Doc","资源&amp;分享","实用工具","有趣的网址"],
   "常用": {
@@ -121,6 +121,12 @@
       {
         "n": "和鲸社区",
         "l": "https://www.heywhale.com",
+        "t": "",
+        "y": 1
+      },
+      {
+        "n": "Hugging Face",
+        "l": "https://huggingface.co/",
         "t": "",
         "y": 1
       },
