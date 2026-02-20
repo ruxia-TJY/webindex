@@ -1,5 +1,5 @@
 {
-  "lastChangedTime": "2026-02-5 09:45",
+  "lastChangedTime": "2026-02-20 10:42",
 
   "TitleList": ["常用","编程","硬件","设计","API&amp;Doc","资源&amp;分享","实用工具","有趣的网址"],
   "常用": {
@@ -98,6 +98,12 @@
         "n": "Gemini",
         "l": "https://gemini.google.com/app",
         "t": "谷歌出品，需翻墙",
+        "y": 1
+      },
+      {
+        "n": "Claude",
+        "l": "https://claude.ai/",
+        "t": "需翻墙",
         "y": 1
       },
       {
@@ -1023,6 +1029,18 @@
       {
         "n":"点灯-blinker",
         "l": "https://diandeng.tech/doc",
+        "t": "",
+        "y": 1
+      },
+      {
+        "n": "如何维护更新日志",
+        "l": "https://keepachangelog.com/zh-CN/1.1.0/",
+        "t": "",
+        "y": 1
+      },
+      {
+        "n": "语义化版本",
+        "l": "https://semver.org/lang/zh-CN/",
         "t": "",
         "y": 1
       }
